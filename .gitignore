@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Large files (keep repo small for reliable push)
+pdfs/
+Animation rotate.webm
